@@ -1,5 +1,6 @@
 # Try-an-SVG-Library
 
+<html>
 <title>SVG.js TextPath</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="robots" content="noindex, nofollow">
@@ -112,5 +113,6 @@ return function() {
 }
 }
 </script>
+</html>
 
 
